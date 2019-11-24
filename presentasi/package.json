@@ -1,0 +1,49 @@
+{
+  "name": "projekkita",
+  "version": "1.0.0",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "bespoke": "^1.1.0",
+    "bespoke-bullets": "^1.1.0",
+    "bespoke-classes": "^1.0.0",
+    "bespoke-extern": "^1.0.0",
+    "bespoke-hash": "^1.0.2",
+    "bespoke-multimedia": "^1.1.0",
+    "bespoke-nav": "^1.0.2",
+    "bespoke-scale": "^1.0.1",
+    "browserify": "^14.4.0",
+    "del": "^3.0.0",
+    "gh-pages": "^1.0.0",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-csso": "^3.0.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-stylus": "^2.6.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-util": "^3.0.8",
+    "normalizecss": "^3.0.0",
+    "through": "^2.3.8",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "engines": {
+    "node": "10.15.3",
+    "npm": "6.9.0"
+  },
+  "description": "= projekkita :uri-bespoke: http://markdalgleish.com/projects/bespoke.js :uri-bundler: http://bundler.io :uri-generator-bespoke: https://github.com/bespokejs/generator-bespoke :uri-gulp: https://gulpjs.com :uri-node: https://nodejs.org :uri-nvm: https://github.com/creationix/nvm :uri-ruby: https://www.ruby-lang.org :uri-rvm: http://rvm.io",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raynald27/Project.git"
+  },
+  "author": "Raynald",
+  "bugs": {
+    "url": "https://github.com/raynald27/Project/issues"
+  },
+  "homepage": "https://github.com/raynald27/Project#readme"
+}
